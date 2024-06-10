@@ -1,0 +1,26 @@
+.expenses{
+
+    .sort{
+        margin-left: 12px;
+
+        .b2{
+            width: 250px;
+            background-color: grey;
+        }
+    }
+
+    .container{
+    .b1{
+        width: 35px;
+    }
+
+    .total{
+        display: flex;
+        padding: 50px;
+
+        h4{
+            font-weight: bold;
+        }
+    }
+}
+}

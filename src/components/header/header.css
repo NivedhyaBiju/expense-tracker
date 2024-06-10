@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 2%;
+
+    h1{
+        color: blue;
+        font-weight: 1000;
+    }
+
+    button{
+        background-color: rgb(2, 83, 2, 0.5);
+        border: none;
+        border-radius: 10px;
+        width: 100px;
+        padding: 5px;
+    }
+}
+
